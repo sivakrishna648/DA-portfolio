@@ -16,8 +16,8 @@ export const projectsData = [
     category: "ml",
     technologies: ["Python", "Scikit-learn", "Pandas", "Matplotlib"],
     date: "March 2023",
-    github: "https://github.com",
-    liveLink: "https://example.com/project2"
+    github: "https://github.com/sivakrishna648/Customer-Segmentation-Analysis/blob/main/Customer_Segmentation_Analysis.ipynb",
+    liveLink: "https://github.com/sivakrishna648/Customer-Segmentation-Analysis/blob/main/Customer_Segmentation_Analysis.ipynb"
   },
   
   
