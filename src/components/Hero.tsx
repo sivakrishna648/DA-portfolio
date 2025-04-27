@@ -74,7 +74,7 @@ const Hero: React.FC = () => {
             Get In Touch
           </a>
           <a
-            href="/resume.pdf"
+            href={`${import.meta.env.BASE_URL}resume.pdf`}
             download="Shivakrishna_Resume.pdf"
             className="bg-pink-500 hover:bg-pink-600 text-white px-8 py-3 rounded-full font-medium transition-all duration-300 transform hover:scale-105"
           >

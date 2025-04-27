@@ -45,7 +45,7 @@ const Resume: React.FC = () => {
 
         <div className="flex justify-center mb-16">
           <a
-            href="/resume.pdf"
+            href={`${import.meta.env.BASE_URL}resume.pdf`}
             download="Shivakrishna_Resume.pdf"
             className="flex items-center gap-2 bg-pink-500 hover:bg-pink-600 text-white px-8 py-4 rounded-lg font-medium transition-all duration-300 transform hover:scale-105 shadow-lg"
           >
